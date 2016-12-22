@@ -1,5 +1,5 @@
 # FS_size_Alert_-_send_Email_to_user
-
+# df -h output is not correct , df -h output is wrong
 This script is specially designed for those system in which "df -h" command doesn't work well or displayes the output in two lines for every filesystem. example is given below :
 
 bash-3.2$ df -h
